@@ -1,0 +1,70 @@
+{
+    "explorer.confirmDelete": false,
+     "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "workbench.editorAssociations": {
+        "*.docx": "default"
+    },
+    "terminal.integrated.inheritEnv": false,
+    "javascript.suggest.completeFunctionCalls": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+
+    "tailwindCSS.includeLanguages": {
+        "html": "html",
+        "javascript": "javascript",
+        "css": "css"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "codeium.enableConfig": {
+        "*": true,
+        "javascript": false
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "terminal.integrated.profiles.windows":{"Git Bash":{"path":"C:\\Program Files\\Git\\bin\\bash.exe"},  },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "python.createEnvironment.trigger": "off",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "indentRainbow.colors": [
+        "rgba(29, 78, 137,0.15)",
+        "rgba(58, 178, 202,0.15)",
+        "rgba(125, 207, 182, 0.15)",
+        "rgba(251, 209, 162,0.15)",
+        "rgba(247, 146, 86,0.15)",
+        "rgba(247, 146, 86,0.1)",
+        "rgba(247, 146, 86,0.05)"
+    ],
+    "workbench.colorTheme": "SynthWave '84",
+    "settingsSync.ignoredExtensions": [],
+    
+
+}
+

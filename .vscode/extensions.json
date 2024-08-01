@@ -1,0 +1,30 @@
+{
+  "recommendations": [
+	"codeium.codeium",
+	"kamikillerto.vscode-colorize",
+	"ms-vscode-remote.remote-containers",
+	"ms-azuretools.vscode-docker",
+	"dsznajder.es7-react-js-snippets",
+	"dbaeumer.vscode-eslint",
+	"evondev.indent-rainbow-palettes",
+	"oderwat.indent-rainbow",
+	"ms-vscode.live-server",
+	"ritwickdey.liveserver",
+	"pkief.material-icon-theme",
+	"christian-kohler.npm-intellisense",
+	"techer.open-in-browser",
+	"esbenp.prettier-vscode",
+	"ms-vscode-remote.vscode-remote-extensionpack",
+	"ms-vscode.remote-explorer",
+	"team-sapling.sapling",
+	"robbowen.synthwave-vscode",
+	"bradlc.vscode-tailwindcss",
+	"gruntfuggly.todo-tree",
+	"ms-vscode-remote.remote-wsl",
+	"stivo.tailwind-fold",
+	"ms-python.python",
+	"ms-python.vscode-pylance",
+
+    // Add other extension IDs you commonly use
+  ]
+}
